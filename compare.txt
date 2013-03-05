@@ -1,0 +1,65 @@
+Name: Alexander Ng
+UTEID: azn72
+Section: 52862
+
+Austin -> Muleshoe:
+Dijkstra:
+end A*, nodes = 11
+Road Distance austin to muleshoe = 452
+Prim:
+pathcost austin to muleshoe = 501
+dist:
+end A*, nodes = 11
+Road Distance austin to muleshoe = 452
+halfass:
+end A*, nodes = 40
+Road Distance austin to muleshoe = 452
+zip:
+end A*, nodes = 65
+Road Distance austin to muleshoe = 452
+randombs:
+end A*, nodes = 65
+Road Distance austin to muleshoe = 452
+randomlies:
+end A*, nodes = 24
+Road Distance austin to muleshoe = 692
+
+Laredo -> Haskell:
+Dijkstra:
+end A*, nodes = 14
+Road Distance laredo to haskell = 482
+dist:
+end A*, nodes = 14
+Road Distance laredo to haskell = 482
+halfass:
+end A*, nodes = 27
+Road Distance laredo to haskell = 482
+zip:
+end A*, nodes = 47
+Road Distance laredo to haskell = 482
+randombs:
+end A*, nodes = 47
+Road Distance laredo to haskell = 482
+randomlies:
+end A*, nodes = 80
+Road Distance laredo to haskell = 501
+
+Dumas -> Corsicana:
+Dijkstra:
+end Dijkstra, nodes = 68
+Road Distance dumas to corsicana = 467
+dist:
+end A*, nodes = 10
+Road Distance dumas to corsicana = 467
+halfass:
+end A*, nodes = 25
+Road Distance dumas to corsicana = 467
+zip:
+end A*, nodes = 34
+Road Distance dumas to corsicana = 467
+randombs:
+end A*, nodes = 34
+Road Distance dumas to corsicana = 467
+randomlies:
+end A*, nodes = 61
+Road Distance dumas to corsicana = 580
